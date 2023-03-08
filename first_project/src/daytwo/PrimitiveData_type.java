@@ -26,7 +26,7 @@ public class PrimitiveData_type {
 		System.out.println(" max limit for maxlong is "+ maxlong + "min limit for minlong is "+ minlong);
 		
 		boolean flags= false;
-		System.out.println("boolean value is "+flag);
+		System.out.println("boolean value is "+ flags);
 		
 		
 		
